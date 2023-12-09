@@ -1,0 +1,12 @@
+learning:
+  batch_size: 128
+  num_passes: 5
+  num_iters: 7000
+
+model:
+  G: 5
+  input_depth: 3
+  num_classes: 100
+
+data:
+  num_samples: 100
